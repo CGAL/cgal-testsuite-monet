@@ -1,0 +1,2 @@
+export INIT_FILE="/Users/geometryfactory/CGAL/cgal-testsuite-monet/CGAL-REF/MacOS-clang-Release.cmake"
+export CONFIG_TYPE=Release
