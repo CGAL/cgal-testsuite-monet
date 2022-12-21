@@ -1,0 +1,18 @@
+#!/bin/sh
+CGAL_ROOT="/Users/geometryfactory/CGAL/cgal-testsuite-monet"
+CGAL_HOME="/Users/geometryfactory/CGAL/cgal-testsuite-monet"
+ln -s "/Users/geometryfactory/CGAL/cgal-testsuite-monet/cgal-dev" $CGAL_ROOT/CGAL-git
+
+REFERENCE_PLATFORMS_DIR="CGAL-REF"
+BUILD_HOSTS="localhost"
+
+CGAL_TESTER="Monet"
+CGAL_TESTER_NAME="Monet (GF)"
+CGAL_TESTER_ADDRESS="jane.tournois@geometryfactory.com"
+
+COMPILERS_localhost="MacOS-clang-Release"
+
+MYSHELL="bash --login"
+FTP_OPTS="-v -n"
+PROCESSORS_localhost="4"
+#KEEP_TESTS=y
