@@ -5,9 +5,9 @@
     <key>Label</key>
      <string>Testsuite</string>
     <key>UserName</key>
-      <string>sloriot</string>
+      <string>geometryfactory</string>
     <key>Program</key>
-      <string>/Users/sloriot/CGAL/testsuite/run_testsuite.sh</string>
+      <string>/Users/geometryfactory/CGAL/testsuite/run_testsuite.sh</string>
 <key>StartCalendarInterval</key>
     <!--  Weekdays are 1 - 5; Sunday is 0 and 7   -->
     <array>
